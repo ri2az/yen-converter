@@ -25,7 +25,7 @@ export default function App({ Component, pageProps }: AppProps) {
 
 				<meta property='og:url' content='https://www.yenny.app/' />
 				<meta property='og:type' content='website' />
-				<meta property='og:title' content='Yenny | Japanese Yen Converter' />
+				<meta property='og:title' content='Riaaz | Japanese Yen Converter' />
 				<meta
 					property='og:description'
 					content='Yenny is a Japanese Yen (JPY) converter that can convert Japanese Yen to the US Dollar (USD), Euros (EUR), Great British Pound (GPB), and any other currency.'
