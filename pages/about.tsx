@@ -78,8 +78,8 @@ const Recipes = () => (
 							<AvatarFallback>KL</AvatarFallback>
 						</Avatar>
 						<div className='flex flex-col'>
-							<h3 className='text-md font-medium'>Kayla Lin</h3>
-							<h3 className='text-md text-muted-foreground'>@kayladotdev</h3>
+							<h3 className='text-md font-medium'>Riaaz</h3>
+							<h3 className='text-md text-muted-foreground'>@ri2az</h3>
 						</div>
 					</div>
 					<h3 className='text-md font-semibold block sm:hidden'>
@@ -99,7 +99,7 @@ const Recipes = () => (
 							<TwitterLogoIcon />
 						</Link>
 						<Link
-							href='https://github.com/kayla-lin'
+							href='https://github.com/ri2az'
 							target='_blank'
 							className={cx(
 								buttonVariants({
