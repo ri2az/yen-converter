@@ -34,7 +34,7 @@ export default function App({ Component, pageProps }: AppProps) {
 				<meta name='twitter:card' content='summary_large_image' />
 				<meta property='twitter:domain' content='yenny.app' />
 				<meta property='twitter:url' content='https://www.yenny.app/' />
-				<meta name='twitter:title' content='Yenny | Japanese Yen Converter' />
+				<meta name='twitter:title' content='Riaaz | Japanese Yen Converter' />
 				<meta
 					name='twitter:description'
 					content='Yenny is a Japanese Yen (JPY) converter that can convert Japanese Yen to the US Dollar (USD), Euros (EUR), Great British Pound (GPB), and any other currency.'
