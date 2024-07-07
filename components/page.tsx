@@ -18,8 +18,8 @@ const Page = ({ title, children }: Props) => {
 		<>
 			{title ? (
 				<Head>
-					<title>Yenny | {title}</title>
-					<title>Yenny | Japanese Yen Converter</title>
+					<title>Riaaz | {title}</title>
+					<title>Riaaz | Japanese Yen Converter</title>
 				</Head>
 			) : null}
 			<div className={cn('font-sans antialiased', fontSans.variable)}>
