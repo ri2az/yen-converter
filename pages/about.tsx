@@ -29,7 +29,7 @@ const Recipes = () => (
 			</Section>
 			<Separator />
 			<Section>
-				<h2 className='text-xl font-semibold'>Meet Yenny</h2>
+				<h2 className='text-xl font-semibold'>Riaaz</h2>
 				<div className='mt-2 flex flex-col space-y-8'>
 					<p>
 						Yenny is a Japanese Yen (JPY) converter that can convert Japanese
